@@ -1,3 +1,3 @@
-# Description
+# ITMO Openedu ML Course
 
-This repo is 
+[link](https://apps.openedu.ru/learning/course/course-v1:ITMOUniversity+MLDATAN+spring_2023_ITMO_bac/home)
